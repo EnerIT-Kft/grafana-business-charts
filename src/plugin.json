@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "dependencies": {
-    "grafanaDependency": ">=11.0.0",
+    "grafanaDependency": ">=12.0.0",
     "plugins": []
   },
   "id": "volkovlabs-echarts-panel",
@@ -14,16 +14,12 @@
     "keywords": ["business", "echarts"],
     "links": [
       {
-        "name": "Documentation",
-        "url": "https://volkovlabs.io/plugins/business-charts/"
+        "name": "Sources",
+        "url": "https://github.com/EnerIT-Kft/grafana-business-charts"
       },
       {
-        "name": "Examples",
-        "url": "https://echarts.volkovlabs.io"
-      },
-      {
-        "name": "Sponsor",
-        "url": "https://volkovlabs.io/pricing/"
+        "name": "Original code by Volkovlabs",
+        "url": "https://github.com/VolkovLabs/business-charts"
       }
     ],
     "logos": {
