@@ -2,6 +2,10 @@
 
 All notable changes to **Business Charts** will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [8.0.0] - 2026-03-16
+
+- Upgraded to Echarts 6.0.0
+
 ## [7.1.0] - 2025-08-31
 
 ### Enhancements

@@ -7,10 +7,10 @@
   "id": "volkovlabs-echarts-panel",
   "info": {
     "author": {
-      "name": "Volkov Labs",
-      "url": "https://volkovlabs.io"
+      "name": "EnerIT Innovation Kft. - Volkov Labs",
+      "url": "https://www.enerit.hu/"
     },
-    "description": "Powerful visualizations powered by Apache ECharts.",
+    "description": "Powerful visualizations powered by Apache ECharts 6.0.0",
     "keywords": ["business", "echarts"],
     "links": [
       {
