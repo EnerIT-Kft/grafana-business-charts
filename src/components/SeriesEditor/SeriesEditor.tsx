@@ -159,6 +159,7 @@ export const SeriesEditor: React.FC<Props> = ({ value, onChange, dataset }) => {
                               variant="secondary"
                               fill="text"
                               size="sm"
+                              aria-label="Remove Item"
                               className={styles.removeButton}
                               onClick={() => {
                                 /**
